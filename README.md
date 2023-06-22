@@ -1,2 +1,1 @@
-# monty
-ALX team project
+this team project for ALX training
